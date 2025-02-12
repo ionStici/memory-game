@@ -2,8 +2,8 @@
 
 This is a solution to the [Memory game challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/memory-game-vse4WFPvM).
 
-| [Live Demo](https://ionstici.dev/memory-game-fem/) | [Demo with Scores](https://memory-game-fem-ionstici.vercel.app/) | [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/memory-game-54_cK32nNw) |
-| :------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| [Live Demo](https://ionstici.dev/memory-game) | [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/memory-game-54_cK32nNw) |
+| :-------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 
 Memory Game is a classic memory matching game built with React, Sass, and Vite. The game provides a fun and interactive way to test and improve your memory skills. This project allows users to select different themes, the number of players, grid sizes, and tile shapes.
 
